@@ -2,7 +2,7 @@
 
 DESCRIPTION: In the beginning of 2020 the used car market in India started growing with the middle class.
  
-Objective: The objective of this project is to identify which used car brand being bought the most in india.To predict the car brand that is growing the most for better marketing I have analysed  8,000 data points.
+Objective: The objective of this project is to identify which used car brands are being bought the most in India.To predict the car brand that is growing the most for better marketing I have analysed 8,000 data points.
 
 **2. Description of the Data :**
 
