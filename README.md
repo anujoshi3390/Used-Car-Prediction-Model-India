@@ -5,6 +5,7 @@ DESCRIPTION: In the beginning of 2020 the used car market in India started growi
 Objective: The objective of this project is to identify which used car brand being bought the most in india.To predict the car brand that is growing the most for better marketing I have analysed  8,000 data points.
 
 **2. Description of the Data :**
+
 S.No. : Serial Number
 Name : Name of the car which includes Brand name and Model name
 Location : The location in which the car is being sold or is available for purchase (Cities)
